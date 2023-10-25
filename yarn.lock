@@ -27,6 +27,79 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@pleisto/flappy-nodejs-bindings-android-arm64@0.0.1-alpha.1":
+  version "0.0.1-alpha.1"
+  resolved "https://registry.yarnpkg.com/@pleisto/flappy-nodejs-bindings-android-arm64/-/flappy-nodejs-bindings-android-arm64-0.0.1-alpha.1.tgz#5b1f2d241a15181f2295102c4423ad3460977726"
+  integrity sha512-6Dh4bkMAPe075KzO+ykKNKmyIyOIs2FN3PlB2Nm84aN3yQxIluGknL0lYGLXkjcQFvz+HQ5BRo5ZGqnLFD9ZUQ==
+
+"@pleisto/flappy-nodejs-bindings-darwin-arm64@0.0.1-alpha.1":
+  version "0.0.1-alpha.1"
+  resolved "https://registry.yarnpkg.com/@pleisto/flappy-nodejs-bindings-darwin-arm64/-/flappy-nodejs-bindings-darwin-arm64-0.0.1-alpha.1.tgz#db824883b118c183848cf22fa26569a0e5ec44e9"
+  integrity sha512-vdoeowTHQjPgviY8Ml82Yg6uRZJ/+V4UaTL53kMo54wfmJ6BZ/N97gwHSo8BzSumk0Z/+7RO6CwBs2CLVtyV8A==
+
+"@pleisto/flappy-nodejs-bindings-darwin-universal@0.0.1-alpha.1":
+  version "0.0.1-alpha.1"
+  resolved "https://registry.yarnpkg.com/@pleisto/flappy-nodejs-bindings-darwin-universal/-/flappy-nodejs-bindings-darwin-universal-0.0.1-alpha.1.tgz#c80af647704afef2fab910ea2e66f43969f41bc9"
+  integrity sha512-0ZitC4WREsE83YnF+G2sIfWWncxuuO/bFkz6jR3EKTHmyrZTBIaIzAVfoVxMgCTbSh9OOXS5/et0/OrUS8NvGw==
+
+"@pleisto/flappy-nodejs-bindings-darwin-x64@0.0.1-alpha.1":
+  version "0.0.1-alpha.1"
+  resolved "https://registry.yarnpkg.com/@pleisto/flappy-nodejs-bindings-darwin-x64/-/flappy-nodejs-bindings-darwin-x64-0.0.1-alpha.1.tgz#678d31e6db4583a476c68c80d829b96fdd0a6216"
+  integrity sha512-qz1b7DB5cGLCa/mOvPYfgyJypn8IUWPyi2YZFIIDkpeydD2fJyQ2FBu+77gLEKeGVkDXN+h6Qil2EJyFYZUbKA==
+
+"@pleisto/flappy-nodejs-bindings-linux-arm64-gnu@0.0.1-alpha.1":
+  version "0.0.1-alpha.1"
+  resolved "https://registry.yarnpkg.com/@pleisto/flappy-nodejs-bindings-linux-arm64-gnu/-/flappy-nodejs-bindings-linux-arm64-gnu-0.0.1-alpha.1.tgz#4f8e1124e39e44d390f9cde19cfba9e8d93d97cf"
+  integrity sha512-XW9Ou+WQ58SBP2U4oYTCLLpSTOJWxML1h9NtbZpVUNfNwQNPgSuMq3pOueXRR7zU8mT5t1hlpyOFv83f8g9pjw==
+
+"@pleisto/flappy-nodejs-bindings-linux-arm64-musl@0.0.1-alpha.1":
+  version "0.0.1-alpha.1"
+  resolved "https://registry.yarnpkg.com/@pleisto/flappy-nodejs-bindings-linux-arm64-musl/-/flappy-nodejs-bindings-linux-arm64-musl-0.0.1-alpha.1.tgz#91fbd6b9e1174c8bcac17f0688815d71305bc358"
+  integrity sha512-nW/d3iUF5gGbch5JH6TJ8HCDZFTeRKgKTnbeeyUebtxckm+RjBKfl1142HKdgLTrudBOu7VuF9qCHFBC6/TeEQ==
+
+"@pleisto/flappy-nodejs-bindings-linux-x64-gnu@0.0.1-alpha.1":
+  version "0.0.1-alpha.1"
+  resolved "https://registry.yarnpkg.com/@pleisto/flappy-nodejs-bindings-linux-x64-gnu/-/flappy-nodejs-bindings-linux-x64-gnu-0.0.1-alpha.1.tgz#17a89194dd08d89b0ca44e168f4a7f1c033fad44"
+  integrity sha512-vcQSGMfEKJw4eVHSF9pNSqg2VcCBNFt23jxYfBEZ6MoDTBNbOvtvGa+hXeDUT1enBFy7b78dSzyuHzdNsksVeg==
+
+"@pleisto/flappy-nodejs-bindings-linux-x64-musl@0.0.1-alpha.1":
+  version "0.0.1-alpha.1"
+  resolved "https://registry.yarnpkg.com/@pleisto/flappy-nodejs-bindings-linux-x64-musl/-/flappy-nodejs-bindings-linux-x64-musl-0.0.1-alpha.1.tgz#921ca6edc1ca2c78da719982afa848a88e519767"
+  integrity sha512-4JfCc8by31wF0ANYS+WQaCgcq4pAdCW3nwCUOoulIqC3qZggnH3epY34XgWuNJHvGp3Ctr8ooXdbx72u30T4tw==
+
+"@pleisto/flappy-nodejs-bindings-win32-x64-gnu@0.0.1-alpha.1":
+  version "0.0.1-alpha.1"
+  resolved "https://registry.yarnpkg.com/@pleisto/flappy-nodejs-bindings-win32-x64-gnu/-/flappy-nodejs-bindings-win32-x64-gnu-0.0.1-alpha.1.tgz#c716a45b57623cf58f5ee2ccefcb62256d1ef278"
+  integrity sha512-RYwX+RIm0oq9E1e+JYtMurXh07WHgiABFWgwYVvPvlg69W4YfX1+8vqzrT/Dg5DYBPS5IsPkLJQWywwR4wyDBA==
+
+"@pleisto/flappy-nodejs-bindings@next":
+  version "0.0.1-alpha.1"
+  resolved "https://registry.yarnpkg.com/@pleisto/flappy-nodejs-bindings/-/flappy-nodejs-bindings-0.0.1-alpha.1.tgz#73276eec00b734d8189b788220fc286cec733561"
+  integrity sha512-Dtz2vjukhcqvXKgNs3slzdM4LQElV8lMr7oZq3itgK+1yG7N/NZpNupUws5TAOMcu2mm3Br0FLNuwAaBhVzltw==
+  optionalDependencies:
+    "@pleisto/flappy-nodejs-bindings-android-arm64" "0.0.1-alpha.1"
+    "@pleisto/flappy-nodejs-bindings-darwin-arm64" "0.0.1-alpha.1"
+    "@pleisto/flappy-nodejs-bindings-darwin-universal" "0.0.1-alpha.1"
+    "@pleisto/flappy-nodejs-bindings-darwin-x64" "0.0.1-alpha.1"
+    "@pleisto/flappy-nodejs-bindings-linux-arm64-gnu" "0.0.1-alpha.1"
+    "@pleisto/flappy-nodejs-bindings-linux-arm64-musl" "0.0.1-alpha.1"
+    "@pleisto/flappy-nodejs-bindings-linux-x64-gnu" "0.0.1-alpha.1"
+    "@pleisto/flappy-nodejs-bindings-linux-x64-musl" "0.0.1-alpha.1"
+    "@pleisto/flappy-nodejs-bindings-win32-x64-gnu" "0.0.1-alpha.1"
+
+"@pleisto/node-flappy@^0.0.1-alpha.3":
+  version "0.0.1-alpha.3"
+  resolved "https://registry.yarnpkg.com/@pleisto/node-flappy/-/node-flappy-0.0.1-alpha.3.tgz#0081be44686910b1c77d51fcff9d7f6e572d67a6"
+  integrity sha512-34UpsGOlhgnQgO+PHG01DLKpTW8GVxLMXlpPFh6CUF9gqlEFbszlucuHKGeRK4VAYCeBzRiPSg8KOGg1P2Paxw==
+  dependencies:
+    "@pleisto/flappy-nodejs-bindings" next
+    radash "^11.0.0"
+    yaml "^2.3.3"
+    zod "^3.22.4"
+    zod-to-json-schema "^3.21.4"
+  optionalDependencies:
+    openai "^4.12.4"
+
 "@tsconfig/node10@^1.0.7":
   version "1.0.9"
   resolved "https://registry.npmjs.org/@tsconfig/node10/-/node10-1.0.9.tgz"
@@ -228,7 +301,7 @@ node-fetch@^2.6.7:
   dependencies:
     whatwg-url "^5.0.0"
 
-openai@^4.13.0:
+openai@^4.12.4, openai@^4.13.0:
   version "4.13.0"
   resolved "https://registry.npmjs.org/openai/-/openai-4.13.0.tgz"
   integrity sha512-EPqHcB0got9cXDZmQae1KytgA4YWtTnUc7tV8hlahZtcO70DMa4kiaXoxnutj9lwmeKQO7ntG+6pmXtrCMejuQ==
@@ -242,6 +315,11 @@ openai@^4.13.0:
     formdata-node "^4.3.2"
     node-fetch "^2.6.7"
     web-streams-polyfill "^3.2.1"
+
+radash@^11.0.0:
+  version "11.0.0"
+  resolved "https://registry.yarnpkg.com/radash/-/radash-11.0.0.tgz#925698e94b554336fc159c253ac33a9a49881835"
+  integrity sha512-CRWxTFTDff0IELGJ/zz58yY4BDgyI14qSM5OLNKbCItJrff7m7dXbVF0kWYVCXQtPb3SXIVhXvAImH6eT7VLSg==
 
 tr46@~0.0.3:
   version "0.0.3"
@@ -305,7 +383,22 @@ whatwg-url@^5.0.0:
     tr46 "~0.0.3"
     webidl-conversions "^3.0.0"
 
+yaml@^2.3.3:
+  version "2.3.3"
+  resolved "https://registry.yarnpkg.com/yaml/-/yaml-2.3.3.tgz#01f6d18ef036446340007db8e016810e5d64aad9"
+  integrity sha512-zw0VAJxgeZ6+++/su5AFoqBbZbrEakwu+X0M5HmcwUiBL7AzcuPKjj5we4xfQLp78LkEMpD0cOnUhmgOVy3KdQ==
+
 yn@3.1.1:
   version "3.1.1"
   resolved "https://registry.npmjs.org/yn/-/yn-3.1.1.tgz"
   integrity sha512-Ux4ygGWsu2c7isFWe8Yu1YluJmqVhxqK2cLXNQA5AcC3QfbGNpM7fu0Y8b/z16pXLnFxZYvWhd3fhBY9DLmC6Q==
+
+zod-to-json-schema@^3.21.4:
+  version "3.21.4"
+  resolved "https://registry.yarnpkg.com/zod-to-json-schema/-/zod-to-json-schema-3.21.4.tgz#de97c5b6d4a25e9d444618486cb55c0c7fb949fd"
+  integrity sha512-fjUZh4nQ1s6HMccgIeE0VP4QG/YRGPmyjO9sAh890aQKPEk3nqbfUXhMFaC+Dr5KvYBm8BCyvfpZf2jY9aGSsw==
+
+zod@^3.22.4:
+  version "3.22.4"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-3.22.4.tgz#f31c3a9386f61b1f228af56faa9255e845cf3fff"
+  integrity sha512-iC+8Io04lddc+mVqQ9AZ7OQ2MrUKGN+oIQyq1vemgt46jwCwLfhq7/pwnBnNXXXZb8VTVLKwp9EDkx+ryxIWmg==

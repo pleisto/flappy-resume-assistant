@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@pleisto/node-flappy": "^0.0.1-alpha.3",
     "openai": "^4.13.0"
   },
   "devDependencies": {
