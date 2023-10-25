@@ -96,7 +96,7 @@ const mapResumesToMeta = createInvokeFunction({
   async resolve({ resumes }) {
     const data: Array<ResumeMeta> = [];
     for (const resume of resumes) {
-      data.push(await getMetaFromOneResume.call(resumeAssistant, {resume}));
+      data.push(await getMetaFromOneResume.call(resumeAssistant, { resume }));
     }
 
     return data;

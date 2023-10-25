@@ -87,10 +87,10 @@
     "@pleisto/flappy-nodejs-bindings-linux-x64-musl" "0.0.1-alpha.1"
     "@pleisto/flappy-nodejs-bindings-win32-x64-gnu" "0.0.1-alpha.1"
 
-"@pleisto/node-flappy@^0.0.1-alpha.3":
-  version "0.0.1-alpha.3"
-  resolved "https://registry.yarnpkg.com/@pleisto/node-flappy/-/node-flappy-0.0.1-alpha.3.tgz#0081be44686910b1c77d51fcff9d7f6e572d67a6"
-  integrity sha512-34UpsGOlhgnQgO+PHG01DLKpTW8GVxLMXlpPFh6CUF9gqlEFbszlucuHKGeRK4VAYCeBzRiPSg8KOGg1P2Paxw==
+"@pleisto/node-flappy@^0.0.1-alpha.4":
+  version "0.0.1-alpha.4"
+  resolved "https://registry.yarnpkg.com/@pleisto/node-flappy/-/node-flappy-0.0.1-alpha.4.tgz#30d4e10826c2dee78c13db2fbe2dafd05e9af95b"
+  integrity sha512-Mgb3NIMaJoAeyBE2nyZUr1zxNCK2RNQOn7il0ve45UrVqeRB2x5MdCNvmpn1v+l1KuBHLijxEWoUH2hNRu6SYQ==
   dependencies:
     "@pleisto/flappy-nodejs-bindings" next
     radash "^11.0.0"
