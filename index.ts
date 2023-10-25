@@ -93,10 +93,10 @@ const mapResumesToMeta = createInvokeFunction({
       }),
     })
   ),
-  async resolve({ resumes }: any) {
+  async resolve({ resumes }) {
     const data: Array<ResumeMeta> = [];
     for (const resume of resumes) {
-      data.push(await getMetaFromOneResume.call(resumeAssistant, resume));
+      data.push(await getMetaFromOneResume.call(resumeAssistant, {resume}));
     }
 
     return data;
@@ -110,7 +110,7 @@ const filterResumeMetaOverExperienceYears = createInvokeFunction({
     years: z.number(),
   }),
   returnType: z.array(resumeMetaType),
-  resolve: async ({ resumes, years }: any) =>
+  resolve: async ({ resumes, years }) =>
     resumes.filter((r: ResumeMeta) => r.experienceYears > years),
 });
 
