@@ -1,0 +1,31 @@
+I am an experienced software engineer with over seven years of front-end development experience. I am passionate about building exceptional user interfaces and am proficient in HTML, CSS, and JavaScript. I have a deep understanding of front-end frameworks like React, Vue, and Angular. I have been involved in multiple large-scale projects, where I was responsible for designing and implementing front-end architectures to ensure high performance and user-friendliness of websites. Additionally, I have project management experience and can lead teams to deliver high-quality results on time.
+
+### Project Experience
+
+#### 1. E-commerce Website Refactoring (ABC Company)
+- Participated in the refactoring project of ABC Company's e-commerce website and served as the lead front-end technical lead.
+- Rebuilt the website's front end using the React framework, implementing responsive design and dynamic loading to enhance user experience.
+- Optimized front-end performance, reducing page load times, and improving overall website performance.
+- Designed and implemented a user behavior tracking and analysis system, providing crucial data support for the marketing team.
+
+#### 2. Social Media App Development (XYZ Startup)
+- Led a four-person front-end development team in building a social media application from scratch.
+- Utilized Vue.js framework and Vuex for state management, implementing real-time chat, dynamic post publishing, and user interaction features.
+- Integrated third-party login and sharing functionalities, boosting user registration and engagement.
+- Successfully launched the application into the market, growing the user base from zero to over fifty thousand.
+
+#### 3. Internal Management System Upgrade (DEF Enterprise)
+- Responsible for upgrading the company's internal management system from traditional server-side rendering to a modern front-end/backend separation architecture.
+- Developed a new front-end interface using the Angular framework, achieving fast data loading and interaction capabilities.
+- Optimized data communication with the backend using GraphQL, reducing unnecessary request cycles and enhancing system efficiency.
+- Facilitated team members' transition to the new technology stack through training and documentation.
+
+### Skills and Expertise
+
+- Front-end Technologies: HTML, CSS, JavaScript, React, Vue, Angular, Redux, GraphQL
+- Front-end Tools: Webpack, Babel, ESLint
+- Project Management: Agile, Scrum, Jira
+
+### Education
+
+- Bachelor's Degree in Computer Science, Peking University, 2012

@@ -1,0 +1,33 @@
+I am a senior backend engineer with over eight years of software development experience. I specialize in designing and building efficient and reliable backend systems. I am proficient in various programming languages and technology stacks, including Java, Python, Node.js, and Go. I am well-versed in database design and optimization, with extensive experience in efficient querying and analysis on large datasets. I have been involved in multiple complex projects, where I was responsible for backend architecture and database design to ensure system stability and performance. Additionally, I also have experience in teamwork and project management, and can lead teams to achieve project goals.
+
+### Project Experience
+
+#### 1. Financial Trading Platform Development (ABC Bank)
+- Served as the lead backend technical lead, responsible for designing and implementing the backend system of the financial trading platform.
+- Used Java and Spring framework to build the core trading engine, achieving high-concurrency transaction processing and real-time risk management.
+- Designed a high-availability database architecture, ensuring the security and reliability of transaction data.
+- Implemented complex transaction reporting and data analysis modules, providing crucial support for trading strategies.
+
+#### 2. E-commerce Platform Upgrade (XYZ Company)
+- Led a five-person backend development team, responsible for upgrading the company's e-commerce platform.
+- Used Python and Django framework to redesign and implement the backend services of the platform, improving system stability and scalability.
+- Integrated third-party payment and logistics services, optimizing the user shopping experience.
+- Introduced distributed caching and message queues, enhancing system performance and response speed.
+
+#### 3. Human Resource Management System Development (DEF Enterprise)
+- Designed and implemented a comprehensive human resource management system, providing the company with a complete HR solution.
+- Used Node.js and Express to build the backend services of the system, implementing modules for employee information management, recruitment processes, and performance assessments.
+- Optimized database queries and indexing, ensuring efficient operation of the system with large amounts of data.
+- Integrated single sign-on and LDAP authentication, enhancing system security and user experience.
+
+### Skills and Expertise
+
+- Backend Development Languages: Java, Python, Node.js, Go
+- Backend Frameworks: Spring, Django, Express
+- Databases: MySQL, PostgreSQL, MongoDB
+- Project Management: Agile, Scrum, Jira
+
+### Education
+
+- Master's Degree in Computer Science, [University Name], 2010
+- Bachelor's Degree in Software Engineering, [University Name], 2008
